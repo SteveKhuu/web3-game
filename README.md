@@ -1,4 +1,5 @@
-# Myth Arena
+# ⚠️⚠️ WARNING WARNING!!! THIS IS MALICIOUS REPO. DO NOT RUN THIS ⚠️⚠️
+## Myth Arena
 [Play Now](https://myth-arena.netlify.app)
 
 Myth Arena is an on-chain pvp strategy game on harmony netwpr that strongly utilized zero knowledge proof to ensure the credibility of players guesses and ensure that the game is not altered. 
